@@ -1,5 +1,5 @@
 
-`const rwamugema = { <br>
+`<p style="background: blue;">const rwamugema = { <p>
 
         location: 'Rwanda',<br>
         
