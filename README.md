@@ -1,13 +1,1 @@
-
-`const rwamugema = { <br>
-
-        location: 'Rwanda',<br>
-        
-        skills:['NodeJs','ReactJs'],<br>
-        
-        Socials: {<br>
-        
-        LinkedIn: 'https://www.linkedin.com/in/rwamugema-japhet-84818b251/',<br>
-        
-        }<br>
-}`
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
